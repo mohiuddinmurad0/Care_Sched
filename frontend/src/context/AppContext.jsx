@@ -67,7 +67,7 @@ const AppContextProvider = (props) => {
 
     // variable  in Object  (access any components)
     const value = {
-        doctors,
+        doctors,getDoctorsData,
         currency,
         token,
         setToken,
