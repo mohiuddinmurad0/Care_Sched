@@ -37,16 +37,16 @@ const Appointment = () => {
 
     let today = new Date()
 
-    for(let i = 1;i <8;i++){
-      // index
+    for(let i = 0;i < 7;i++){
+     
       let currentDate = new Date(today)
 
-      currentDate.setDate(today.getDate() + i - 1)
+      currentDate.setDate(today.getDate() + i)
 
       // end time and date
 
       let endTime = new Date()
-      endTime.setDate(today.getDate() + i -1)
+      endTime.setDate(today.getDate() + i)
       endTime.setHours(21,0,0,0)
 
 
