@@ -1,2 +1,2 @@
-# Full-Stack-Project
+# CareSched - Hassle-Free Health Booking
 # Mohiuddin Murad
