@@ -37,7 +37,7 @@ https://care-sched-admin.onrender.com
 
 #Documentation
 
-*****Project Proposal*****
+***Project Proposal***
 
 <a target='none' href="https://drive.google.com/file/d/1Dx2W6ljt7bIld0096U-1_zYZEKxr0ccY/view?usp=drive_link">Click Here</a>
 
