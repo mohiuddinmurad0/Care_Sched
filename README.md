@@ -13,7 +13,7 @@ https://care-sched-admin.onrender.com
 
 #Testing Part 
 
-********#Menual testing*******
+*****Menual Testing****
 
 <a target='none' href="https://docs.google.com/spreadsheets/d/1RoqgZyx7fmJcqKqdPfjZqEHcUO3Engax/edit?usp=drive_link&ouid=111349287625124179321&rtpof=true&sd=true">Click Here</a>
 
@@ -27,7 +27,7 @@ https://care-sched-admin.onrender.com
 
 <a target='none' href="https://www.figma.com/design/ONk4IoZHL7pqWTwS9l37sj/CareSched-UI?node-id=0-1&t=W5MWpJ3TQBG976cO-1">Click Here</a>
 
-****Prototype****
+*****Prototype****
 
 <a target='none' href="https://www.figma.com/proto/ONk4IoZHL7pqWTwS9l37sj/CareSched-UI?node-id=0-1&t=W5MWpJ3TQBG976cO-1">Click Here</a>
 
@@ -37,7 +37,7 @@ https://care-sched-admin.onrender.com
 
 #Documentation
 
-****Project Proposal****
+*****Project Proposal****
 
 <a target='none' href="https://drive.google.com/file/d/1Dx2W6ljt7bIld0096U-1_zYZEKxr0ccY/view?usp=drive_link">Click Here</a>
 
